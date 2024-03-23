@@ -1,0 +1,29 @@
+:root{
+    background-color: wheat;
+}
+
+.counter-container{
+    background-color: wheat;
+    margin: 10px;
+}
+
+.counter-container .counter-number{
+    font-size: 100px;
+    margin: 100px;
+    font-family: sans-serif;
+    color: black;
+}
+
+
+
+.counter-container .button{
+    font-family: sans-serif;
+    color: white;
+    background-color: black;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 10px;
+    border: none;
+}
+
